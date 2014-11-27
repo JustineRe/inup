@@ -1,3 +1,5 @@
-##PrÃ©-requis techniques
+# Intallation du système
+##Pré-requis techniques
 
-plop1
+*Nécessite un serveur Apache avec PHP 5
+
