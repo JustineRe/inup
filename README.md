@@ -1,4 +1,8 @@
 # Projet InnovasUp
 # Contributeurs : Justine
 
-# Section : Install
+
+#Install
+
+* Voir fichier : INSTALL.md 
+
