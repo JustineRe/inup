@@ -1,5 +1,6 @@
-# Intallation du système
-## Pré-requis techniques
+# Intallation du systÃ¨me
+## PrÃ©-requis techniques
 
-* Nécessite un serveur Apache avec PHP 5
-## Procédure d'installation
+* NÃ©cessite un serveur Apache avec PHP 5
+
+## ProcÃ©dure d'installation
