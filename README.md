@@ -1,5 +1,7 @@
 # Projet InnovasUp
-# Contributeurs : Justine
+## Contributeurs : 
+* Justine
+* Chloé
 
 
 #Install
